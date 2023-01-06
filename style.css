@@ -1,0 +1,39 @@
+body{
+    padding: 100px;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    height: 45px;
+    padding: 15px;
+}
+
+h5{
+    font-weight: bold;
+    color:yellowgreen;
+}
+
+p,li{
+    font-size: 18px;
+}
+
+pre{
+    font-size: 14px;
+    color: darkblue;
+    text-align: left;
+}
+table{
+    
+    border: 2px solid black;
+}
+th,td{
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: 18px;
+    text-align: center;
+}
+
+b{
+    text-decoration: underline;
+}
